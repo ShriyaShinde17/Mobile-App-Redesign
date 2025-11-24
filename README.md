@@ -60,3 +60,5 @@ No clutter, no ads, no extra icons.
 
 7. Reduced Cognitive Load
 Fewer colors, fewer elements, and a cleaner layout make the experience easier for users.
+
+Figma Link- https://www.figma.com/proto/5j7NepV49jYmBbNbwFkdnC/Untitled?node-id=0-1&t=1ardgznkQpQUmNzS-1
